@@ -12,6 +12,6 @@ public class Main {
         System.out.println("Enter height :");
         height=scanner.nextFloat();
         float DT=width*height;
-//    System.out.println("DT la :"+DT);
+  System.out.println("DT la :"+DT);
     }
 }
